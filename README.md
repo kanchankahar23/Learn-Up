@@ -1,51 +1,58 @@
-📚 Learn-Up
+# Learn-Up
 
-Learn-Up is a simple web project built with HTML, CSS, and JavaScript.
-It includes user authentication pages (Sign-In / Sign-Up), a Payment page, and basic interactive features using JavaScript.
+A simple, front-end web project built with HTML, CSS, and JavaScript. It includes user authentication pages—Sign-In and Sign-Up—as well as a Payment page, all styled and interactive using vanilla JavaScript.
 
-🚀 Features
+---
 
-✨ Landing Page (index.html)
+## Pages
 
-🔑 User Authentication
+- **Home** – `index.html`  
+- **Sign In** – `sign-in.html`  
+- **Sign Up** – `sign-up.html`  
+- **Payment** – `payment.html`  
 
-Sign-In (sign-in.html)
+---
 
-Sign-Up (sign-up.html)
+## Assets
 
-💳 Payment Page (payment.html)
+- **Stylesheet** – `style.css`  
+- **JavaScript** – `script.js`  
 
-🎨 Responsive Styling with style.css
+---
 
-⚡ Interactive Behavior with script.js
+## Project Structure
 
-🛠️ Tech Stack
-
-HTML5 – Structure
-
-CSS3 – Styling & Layout
-
-JavaScript (Vanilla JS) – Interactivity
-
-📂 Project Structure
 Learn-Up/
-│── index.html        # Home page
-│── sign-in.html      # Login page
-│── sign-up.html      # Registration page
-│── payment.html      # Payment page
-│── style.css         # Stylesheet
-│── script.js         # JavaScript functionality
+│── index.html
+│── sign-in.html
+│── sign-up.html
+│── payment.html
+│── style.css
+│── script.js
 
-💻 How to Run
+---
 
-Clone the repository
+## Getting Started
 
-git clone https://github.com/kanchankahar23/Learn-Up.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanchankahar23/Learn-Up.git
+Open index.html in your browser to explore the pages.
+
+About
+A beginner-friendly project aimed at reinforcing core front-end development skills—HTML structure, CSS styling, and JavaScript-driven interactivity.
+
+Contact
+Author: Kanchan Kahar
+
+Email: kaharkanchan884@gmail.com
+
+GitHub: kanchankahar23
+
+--
 
 
-Open index.html in your browser.
 
-Explore the pages: Sign-In, Sign-Up, and Payment.
 
-📧 Contact
-📩 Email: kaharkanchan884@gmail.com
+
+Cha
